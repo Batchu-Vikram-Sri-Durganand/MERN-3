@@ -68,4 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# MERN-3
+# MERN Word Counter
+![image](https://github.com/Batchu-Vikram-Sri-Durganand/MERN-3/assets/109595666/26297ff9-7be0-4519-8aae-d1f40e16a752)
+
